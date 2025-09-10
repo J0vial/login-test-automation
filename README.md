@@ -35,12 +35,5 @@ This Selenium test script demonstrates automated testing of the login functional
 - **test_login_not_valid:** Validates the behavior of the login process with invalid credentials by checking for the 'Invalid credentials' error message.
 - **test_login_valid:** Tests the successful login process with valid credentials and verifies the redirection to the dashboard.
 
-## Test Execution Reports
-The test execution generates HTML reports located in the `Reports` directory after test completion.
 
-## Contributors
-- [Massimiliano Visintainer](https://github.com/MassimilianoVisintainer)
-
-## Acknowledgments
-- The Selenium community and contributors for providing a robust testing framework.
 
